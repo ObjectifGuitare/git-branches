@@ -1,10 +1,14 @@
 
 body{
-    background-image:url("..image/Mark.jpg");
+    background-image:url("image/Mark.jpg");
+    background-size:100%;
+    width: 50%;
+    height: ;
     background-repeat: no-repeat;
     background: cover;
 }
 h1{
+    font-style: italic;
     color:#3594F5;
     text-align: center;
 }
@@ -17,13 +21,9 @@ p {
   }
   
   .menu ul{
-
+      color:#3594F5;
+      list-style: square;
     
   }
-
-ul{
-
-    list-style: square;
-}
 
 
