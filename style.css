@@ -9,7 +9,7 @@ body{
 }
 h1{
     font-style: italic;
-    color:#3594F5;
+    color:white;
     text-align: center;
 }
 
@@ -21,7 +21,7 @@ p {
   }
   
   .menu ul{
-      color:#3594F5;
+      color:white;
       list-style: square;
     
   }
